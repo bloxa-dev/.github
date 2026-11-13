@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="56" viewBox="0 0 220 56" role="img" aria-label="Bloxa">
+<g transform="translate(4 4)">
+<rect x="4" y="26" width="18" height="18" rx="4.5" fill="#0B0D12"/>
+<rect x="26" y="26" width="18" height="18" rx="4.5" fill="#0B0D12"/>
+<rect x="4" y="4" width="18" height="18" rx="4.5" fill="#0B0D12"/>
+<rect x="28" y="2" width="18" height="18" rx="4.5" fill="#C6F432" stroke="#0B0D12" stroke-width="1.5"/>
+</g>
+<text x="64" y="41" font-family="Geist, Inter, system-ui, sans-serif" font-size="40" font-weight="600" letter-spacing="-2" fill="#0B0D12">bloxa</text>
+</svg>
